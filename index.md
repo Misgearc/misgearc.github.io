@@ -1,3 +1,5 @@
+[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Contact](contact.md)
+
 # Welcome to My Portfolio
 ## About Me
 Architect with a BSc in Architecture and MSc in Real Property Valuation.  
