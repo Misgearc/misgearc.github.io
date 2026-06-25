@@ -48,3 +48,10 @@ Focused on sustainable design, construction supervision, and project management.
 ## Contact
 📧 misgearc@gmail.com  
 0910034554
+---
+
+<div style="text-align:center; font-size:14px; color:gray; margin-top:30px;">
+  © 2026 Misgearc Portfolio · All Rights Reserved  
+  📧 <a href="mailto:misgearc@gmail.com" style="color:gray;">misgearc@gmail.com</a>  
+</div>
+
