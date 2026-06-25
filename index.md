@@ -3,7 +3,16 @@
 <p>Architect | Researcher | Innovator</p>
 </div>
 
-[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Contact](contact.md)
+<div style="text-align:center; font-weight:bold; margin-bottom:20px;">
+<a href="index.html">Home</a> |
+<a href="about.html">About</a> |
+<a href="projects.html">Projects</a> |
+<a href="contact.html">Contact</a>
+</div>
+## 🏗️ Projects
+**Residential Housing Concepts**  
+Designing sustainable homes with efficient spatial layouts.
+
 
 # Welcome to My Portfolio
 ## About Me
