@@ -96,4 +96,16 @@ Focused on sustainable design, construction supervision, and project management.
   💻 <a href="https://github.com/Misgearc" style="color:white; margin:0 10px; text-decoration:none;">GitHub</a>
   📱 +251 910 034 554
 </div>
+---
+
+<div style="background-color:#003366; padding:15px; text-align:center; color:white; font-size:14px; margin-top:30px;">
+  © 2026 Misgearc Portfolio · All Rights Reserved  
+  <br><br>
+  📧 <a href="mailto:misgearc@gmail.com" style="color:white; margin:0 10px; text-decoration:none;">misgearc@gmail.com</a>
+  🔗 <a href="https://linkedin.com/in/yourprofile" style="color:white; margin:0 10px; text-decoration:none;">LinkedIn</a>
+  💻 <a href="https://github.com/Misgearc" style="color:white; margin:0 10px; text-decoration:none;">GitHub</a>
+  📱 <a href="tel:+251912345678" style="color:white; margin:0 10px; text-decoration:none;"
+        onmouseover="this.style.color='yellow'" 
+        onmouseout="this.style.color='white'">+251 910 034 554</a>
+</div>
 
