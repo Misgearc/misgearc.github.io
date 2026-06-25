@@ -9,17 +9,34 @@
 <a href="projects.html">Projects</a> |
 <a href="contact.html">Contact</a>
 </div>
-## 🏗️ Projects
-**Residential Housing Concepts**  
-Designing sustainable homes with efficient spatial layouts.
-
+<div style="background-color:#003366; padding:10px; text-align:center;">
+  <a href="index.html" 
+     style="color:white; margin:0 15px; text-decoration:none;" 
+     onmouseover="this.style.color='yellow'" 
+     onmouseout="this.style.color='white'">Home</a>
+  
+  <a href="about.html" 
+     style="color:white; margin:0 15px; text-decoration:none;" 
+     onmouseover="this.style.color='yellow'" 
+     onmouseout="this.style.color='white'">About</a>
+  
+  <a href="projects.html" 
+     style="color:white; margin:0 15px; text-decoration:none;" 
+     onmouseover="this.style.color='yellow'" 
+     onmouseout="this.style.color='white'">Projects</a>
+  
+  <a href="contact.html" 
+     style="color:white; margin:0 15px; text-decoration:none;" 
+     onmouseover="this.style.color='yellow'" 
+     onmouseout="this.style.color='white'">Contact</a>
+</div>
 
 # Welcome to My Portfolio
 ## About Me
 Architect with a BSc in Architecture and MSc in Real Property Valuation.  
 Focused on sustainable design, construction supervision, and project management.
 
-## Projects
+## 🏗️ Projects
 - Residential housing concepts
 - Public building supervision
 - Urban development projects
