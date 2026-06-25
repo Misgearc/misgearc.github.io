@@ -1,3 +1,8 @@
+<div style="text-align:center; background-color:#e0f7fa; padding:20px; border-radius:8px;">
+<h1>Welcome to Misgearc Portfolio</h1>
+<p>Architect | Researcher | Innovator</p>
+</div>
+
 [Home](index.md) | [About](about.md) | [Projects](projects.md) | [Contact](contact.md)
 
 # Welcome to My Portfolio
