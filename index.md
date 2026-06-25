@@ -67,4 +67,13 @@ Focused on sustainable design, construction supervision, and project management.
     💻 GitHub
   </a>
 </div>
+---
+
+<div style="background-color:#003366; padding:15px; text-align:center; color:white; font-size:14px; margin-top:30px;">
+  © 2026 Misgearc Portfolio · All Rights Reserved  
+  <br><br>
+  <a href="mailto:misgearc@gmail.com" style="color:white; margin:0 10px; text-decoration:none;">📧 Email</a>
+  <a href="https://linkedin.com/in/yourprofile" style="color:white; margin:0 10px; text-decoration:none;">🔗 LinkedIn</a>
+  <a href="https://github.com/Misgearc" style="color:white; margin:0 10px; text-decoration:none;">💻 GitHub</a>
+</div>
 
